@@ -61,7 +61,7 @@ body::before {
 
 .hour-hand, .minute-hand, .second-hand {
     position: absolute;
-    background-color: #3498db;
+    background-color: #25d781;
     transform-origin: 50% 100%;
 }
 
